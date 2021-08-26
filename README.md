@@ -1,5 +1,9 @@
 ### Hi there,I'm handsome young man 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stronglxp&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stronglxp&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
